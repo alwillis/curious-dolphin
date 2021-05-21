@@ -140,3 +140,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://curious-dolphin-7179d.netlify.app'
