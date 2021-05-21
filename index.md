@@ -12,7 +12,7 @@ sections:
     media_position: top
     media_width: sixty
     align: left
-    padding_top: large
+    padding_top: none
     padding_bottom: large
     background_color: primary
   - type: grid_section
