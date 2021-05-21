@@ -6,9 +6,6 @@ sections:
     subtitle: >-
       promotes inclusive innovation, creative and social enterprise, and
       entrepreneurship in the Boston community.
-    content: >
-      promotes inclusive innovation, creative and social enterprise, and
-      entrepreneurship in the Boston community.
     actions:
       - label: Try Free
         url: /pricing
