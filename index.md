@@ -6,10 +6,7 @@ sections:
     subtitle: >-
       promotes inclusive innovation, creative and social enterprise, and
       entrepreneurship in the Boston community.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     image: images/Website30.jpg
     image_alt: Hero section placeholder image
     media_position: top
