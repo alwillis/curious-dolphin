@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Fairmount Innovation Lab
-    subtitle: Optional hero section subtitle
+    subtitle: >-
+      promotes inclusive innovation, creative and social enterprise, and
+      entrepreneurship in the Boston community.
     content: >
       promotes inclusive innovation, creative and social enterprise, and
       entrepreneurship in the Boston community.
